@@ -1,5 +1,5 @@
 # 0x06. Star Wars API
-
+#
 ## Resources:books:
 Read or watch:
 * [Star wars API](https://swapi-api.hbtn.io/)
